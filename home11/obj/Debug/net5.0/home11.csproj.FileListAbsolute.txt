@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.exe
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.deps.json
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.runtimeconfig.json
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.runtimeconfig.dev.json
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.dll
+C:\Users\User\Desktop\homework\Homework\home11\bin\Debug\net5.0\home11.pdb
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.AssemblyInfo.cs
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.dll
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\refint\home11.dll
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.pdb
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\home11.genruntimeconfig.cache
+C:\Users\User\Desktop\homework\Homework\home11\obj\Debug\net5.0\ref\home11.dll
