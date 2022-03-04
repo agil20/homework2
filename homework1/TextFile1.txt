@@ -1,0 +1,12 @@
+﻿4 reqemli eded verilib. Bu ededin eveline 7 reqemini , axirinada 8 reqemini artir. Example1: 333= 73338
+init a
+if a>=1000 and a<10000 then
+
+
+
+else
+ calculate  a=a*70000+8
+
+print a
+
+print " 4 reqemli deyil"

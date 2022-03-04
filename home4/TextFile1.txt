@@ -1,0 +1,11 @@
+﻿3 reqemli eded verilib. Bu ededin axirina 7 artir. Sonra cavabin 7% tap;
+init a
+if a>=100 and a<1000 then
+calculate a=a*10+7
+calculate a=a*7/100
+print a
+
+
+
+else 
+print "eded  3 reqemli deyil"

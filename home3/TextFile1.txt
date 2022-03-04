@@ -1,0 +1,14 @@
+﻿5 reqemli eded verilib. Bu ededin evvel 18 % sonra ise 3 % tap.
+init a
+if a>=10000 and a<100000 then
+calculate a=a*18/100
+calculate a=a*3/100
+
+
+print a
+
+
+
+
+else
+print "eded 5 reqemli deyil"

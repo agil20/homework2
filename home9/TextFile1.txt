@@ -1,0 +1,14 @@
+﻿3 dene 6 reqemli eded verilib. Her birinin 10 faizini tapib neticeleri topla. Alinan cavabin 10% tap.
+init a
+init b
+init c
+init d
+if a>=100000 not a<1000000 not b>=100000 not b<1000000 not c>=100000 not c<1000000
+print "ededler duzgen verilmemisdir" return
+else 
+calculate a=a*10/100
+calculate b=b*10/100
+calculate c=c*10/100
+calculate d=a+b+c
+calculaate d=d*10/*100
+print d

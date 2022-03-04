@@ -1,0 +1,11 @@
+﻿ 4 reqemli eded verilib.Bu ededin evvel 20 % -ni , sonra ise cavabin 10 % tap.Alinan cavabin kvadratini tap.
+ init a
+ if a>=1000 and a<10000
+ calculate a=a*20/100
+ calculate a=*10/100
+ calculate a=a*a
+ print a
+
+
+ else 
+ print " eded 4 reqemli deyildir"

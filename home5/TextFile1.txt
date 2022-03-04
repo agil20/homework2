@@ -1,0 +1,12 @@
+﻿   //4 reqemli eded verilib. Bu ededin evvelin 4 reqemi , axirina ise 44 ededini artir. Alinan cavabin 44 % tap
+   init a
+   if a>=1000 and a<10000 then
+
+   calculate a=a*40000+4
+   calculate a=a*100+44
+   calculate a=a*44/100
+   print a
+
+
+   else
+    print "eded 4 reqemli deyil"

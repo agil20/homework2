@@ -1,0 +1,25 @@
+﻿
+            //    2 dene 5 reqemli eded verilib.Bu ededleri toplayib.Alinan cavabin evveline ve axirina 5 artir.Neticenin 5 % ta
+            init a
+            init b
+            init c
+            if a>=10000 and a<100000 and  b>=10000 and b<100000 then
+
+            calculate c=a+b
+            if    c>=10000 and c<100000 then
+            calculate c=c+500000
+            calculate c=c*10+7
+            calculate c=c*5/100
+            print c
+            else 
+
+            c=c+5000000
+            calculate c=c*10+7
+            calculate c=c*5/100
+
+
+
+
+
+
+            else print "ededler 5 reqemli deyildur"

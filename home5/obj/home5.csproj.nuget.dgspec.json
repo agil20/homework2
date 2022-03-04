@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\homework\\Homework\\home5\\home5.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\homework2\\home5\\home5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\homework\\Homework\\home5\\home5.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\homework2\\home5\\home5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\homework\\Homework\\home5\\home5.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\homework2\\home5\\home5.csproj",
         "projectName": "home5",
-        "projectPath": "C:\\Users\\User\\Desktop\\homework\\Homework\\home5\\home5.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\homework2\\home5\\home5.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\homework\\Homework\\home5\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\homework2\\home5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,19 @@
+﻿ 2 dene eded verilib.I eded 4 reqemli II eded 7 reqemlidir.
+I ededin 4 % -ni tap.
+Sonra II ededin 9 % ni tap.
+Sonra Cavalari toplayib 10 % ni tap.
+
+
+init a
+init b
+init c
+if a>=1000 not a<10000 then
+print "birinci eded 4 reqemli deyil"  return
+if b>=1000000 not b<10000000
+print " 2 ci eded 7 reqemli deyil" return
+calculate a=a*4/100
+calculate b=b*9/100
+calculate c=a+b
+calculate c=c*10/100
+print c
+
